@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 #
 #   This file echoes a bunch of color codes to the 
 #   terminal to demonstrate what's available.  Each 
