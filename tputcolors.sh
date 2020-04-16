@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 tput init
 for i in {0..255}
 do
