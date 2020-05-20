@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # Found here: https://superuser.com/questions/285381/how-does-the-tmux-color-palette-work
 
