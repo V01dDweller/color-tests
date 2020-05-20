@@ -1,6 +1,7 @@
 ## My Terminal Color Test collection ##
 
-This is a small collection of simple scripts to see if color will work in my terminal, usually in preparation to use Vim with a good color scheme, tmux with colors or mintty colors.
+This is a small collection of simple scripts to to test color in my terminal,
+usually while tweaking my .vimrc, Tmux ors or mintty colors.
 
 ### The scripts ###
 
