@@ -1,8 +1,8 @@
-#!/usr/bin/bash
+#!/bin/bash
 tput init
-for i in {0..255}
+for i in {001..255}
 do
- printf " "$i
+ printf %03d $i
  tput setab $i
  printf "   "
  tput sgr0
