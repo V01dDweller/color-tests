@@ -1,4 +1,6 @@
 #!/bin/bash
+# Prints a table of ncurses colors from 0 to 255
+
 tput init
 for i in {001..255}
 do
