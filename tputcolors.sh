@@ -2,12 +2,12 @@
 tput init
 for i in {001..255}
 do
- printf %03d $i
- tput setab $i
+ printf $i
+ i=$(echo $i | sed 's/^0\|^00//')
+ tput setab "$i"
  printf "   "
  tput sgr0
  printf " "
- #if ! ((i % 5)) && ((i != 0))
  if ! ((i % 5))
  then
   echo " "
