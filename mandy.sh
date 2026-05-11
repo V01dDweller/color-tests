@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Charles Cooke's 16-color Mandelbrot
 # http://earth.gkhs.net/ccooke/shell.html
